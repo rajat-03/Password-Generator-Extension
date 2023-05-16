@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  input[type="number"] {
+    width: 50px;
+  }
+  
+  input[type="checkbox"] {
+    margin: 5px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  input[type="text"] {
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  #copy {
+    background-color: #008CBA;
+  }
+  
+  #copy:hover {
+    background-color: #006C9A;
+  }
+  
